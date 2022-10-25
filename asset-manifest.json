@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vitaliy-nekrasov/goit-react-hw-02-feedback.git/static/css/main.7acaea2f.css",
+    "main.js": "/vitaliy-nekrasov/goit-react-hw-02-feedback.git/static/js/main.07d3183d.js",
+    "index.html": "/vitaliy-nekrasov/goit-react-hw-02-feedback.git/index.html",
+    "main.7acaea2f.css.map": "/vitaliy-nekrasov/goit-react-hw-02-feedback.git/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/vitaliy-nekrasov/goit-react-hw-02-feedback.git/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
