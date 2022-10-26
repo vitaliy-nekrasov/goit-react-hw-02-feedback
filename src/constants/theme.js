@@ -2,8 +2,11 @@ export const theme = {
   colors: {
     black: '#000',
     white: '#fff',
+    green: '#2ee59d',
+    yellow: '#ecec0a',
+    red: '#d50c0c',
   },
-  space: [0, 2, 4, 8, 16, 32, 64, 128, 256],
+  space: ['0px', '2px', '4px', '8px', '16px', '32px', '64px', '128px', '256px'],
   fonts: {
     body: 'system-ui, sans-serif',
     heading: 'system-ui, sans-serif',
@@ -12,12 +15,13 @@ export const theme = {
   fontSizes: {
     xs: '12px',
     s: '14px',
-    m: '16px',
+    m: '20px',
     l: '32px',
     xl: '64px',
   },
   fontWeights: {
     normal: 400,
+    semiBold: 600,
     bold: 700,
   },
   lineHeights: {
