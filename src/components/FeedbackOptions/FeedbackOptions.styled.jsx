@@ -15,6 +15,7 @@ export const Button = styled.button`
   width: ${p => p.theme.space[7]};
   height: ${p => p.theme.space[6]};
   line-height: ${p => p.theme.space[4]};
+  border: ${p => p.theme.borders.normal};
   border-radius: ${p => p.theme.space[5]};
   font-size: 11px;
   text-transform: uppercase;
